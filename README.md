@@ -1,3 +1,4 @@
+📚 Student Management System A desktop-based Student Management System built with Python, Tkinter, and MySQL — designed to simplify and streamline the management of student records through an intuitive graphical interface.
 <p align="center">
   ⭐ <strong>If you found this project helpful, please give it a star!</strong> ⭐
 </p>
