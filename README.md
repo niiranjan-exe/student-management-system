@@ -54,7 +54,7 @@ Key highlights from the codebase:
 ### 🏠 Main Window
 > Live date/time clock (top-left), scrolling welcome banner (top-center), Connect to Database button (top-right), menu panel (left), and live data table (right).
 
-![Main Menu](assets/screenshots/main_menu.png)
+![Main Menu](assets/main_menu.png)
 
 ---
 
