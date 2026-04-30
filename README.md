@@ -133,7 +133,7 @@ pip install mysql-connector-python pymysql pandas
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/niiranjan-dev/student-management-system.git
+git clone https://github.com/niiranjan-exe/student-management-system.git
 cd student-management-system
 ```
 
