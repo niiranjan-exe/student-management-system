@@ -1,0 +1,19 @@
+# Requirements for Student Management System
+# Install all dependencies using: pip install -r requirements.txt
+# These are the external libraries needed to run this project.
+
+mysql-connector-python
+pymysql
+pandas
+
+Steps to install on any computer:
+
+Step 1 — Make sure Python is installed
+
+Step 2 — Install all at once:
+  pip install -r requirements.txt
+
+Step 3 — Verify installation
+  pip show mysql-connector-python
+  pip show pymysql
+  pip show pandas
