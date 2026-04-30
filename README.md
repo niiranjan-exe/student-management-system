@@ -274,14 +274,8 @@ See the [LICENSE](LICENSE) file for full details.
 
 **P Niiranjan**
 
-- 🌐 GitHub: [niiranjan-dev](https://github.com/niiranjan-dev)
-- 📧 Email: niiranjanprabhakar@gmail.com
-
-## 🤝 Contributors
-
-**Niiranjan P**
-
 - 🌐 GitHub: [niiranjan-exe](https://github.com/niiranjan-exe)
+- 📧 Email: niiranjanprabhakar@gmail.com
 
 <p align="center">
   ⭐ <strong>If you found this project helpful, please give it a star!</strong> ⭐
